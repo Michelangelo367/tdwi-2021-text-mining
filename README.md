@@ -2,7 +2,7 @@
 
 **Jens Albrecht und Roland Zimmermann**
 
-Workshop auf [TDWI-Konferenz 2021](https://www.tdwi-konferenz.de/tdwi-2021).
+Workshop auf [TDWI-Konferenz 2021](https://www.tdwi-konferenz.de/tdwi-2021):
 
 [Link zum Programm-Eintrag](https://www.tdwi-konferenz.de/tdwi-2021/startpage/program/conference-program/track/workshop-6.html)
 
