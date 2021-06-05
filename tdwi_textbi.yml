@@ -41,3 +41,7 @@ dependencies:
     # - pyldavis
     - wordcloud
     - psaw
+
+
+# dont' forget:
+# python -m spacy download en_core_web_sm
