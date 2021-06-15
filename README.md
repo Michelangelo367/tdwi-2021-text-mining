@@ -1,6 +1,6 @@
 # TDWI 2021: Text Mining mit Python und PowerBI
 
-Workshop von **Jens Albrecht und Roland Zimmermann** auf [TDWI-Konferenz 2021](https://www.tdwi-konferenz.de/tdwi-2021)
+Workshop von **Jens Albrecht und Roland Zimmermann** auf [TDWI-Konferenz 2021](https://www.tdwi-konferenz.de/tdwi-2021/programm/konferenzprogramm.html#item-2976)
 
 [Link zum Programm-Eintrag](https://www.tdwi-konferenz.de/tdwi-2021/startpage/program/conference-program/track/workshop-6.html)
 
