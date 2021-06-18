@@ -1,4 +1,3 @@
-# setup for chapter 4
 import os
 
 if ON_COLAB:
@@ -17,9 +16,11 @@ if ON_COLAB:
         'packages/blueprints/__init__.py',
         'packages/blueprints/exploration.py',
         'packages/blueprints/preparation.py',
+        'packages/blueprints/embeddings.py',
         'data/reddit-autos-selfposts-raw.csv',
         'data/reddit-autos-selfposts-cleaned.csv',
         'data/reddit-autos-selfposts-prepared.csv',
+        'data/w2v_autos_100_30_sg.bin',
         'colab_requirements.txt'
     ]
 

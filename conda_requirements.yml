@@ -35,10 +35,9 @@ dependencies:
     # add pip-distributed libraries
     - beautifulsoup4
     - nltk
-    - spacy
+    - spacy>=3.0.0
     - textacy>=0.11.0
-    # - gensim==3.8.3
-    # - pyldavis
+    - gensim>=4.0.0
     - wordcloud
     - psaw
     - lime
