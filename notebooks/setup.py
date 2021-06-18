@@ -12,10 +12,10 @@ else:
 
 if ON_COLAB:
     required_files = [
-        'settings.py',
-        'packages/blueprints/__init__.py',
-        'packages/blueprints/exploration.py',
-        'packages/blueprints/preparation.py',
+        'notebooks/settings.py',
+        'notebooks/packages/blueprints/__init__.py',
+        'notebooks/packages/blueprints/exploration.py',
+        'notebooks/packages/blueprints/preparation.py',
         'data/reddit-autos-selfposts-raw.csv',
         'data/reddit-autos-selfposts-prepared.csv',
         'colab_requirements.txt'
