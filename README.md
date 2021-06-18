@@ -15,5 +15,13 @@ Genauere Informationen folgen Anfang Juni.
 
 #### Google Colab
 
-Am einfachsten ist es, den Python-Teil auf Google Colab mitzumachen. Das hier abgelegte Notebook [Test.ipynb](Test.ipynb) können Sie über den nachfolgenden Link direkt in Google Colab öffnen und ausführen. Bitte einmal [Test.ipynb auf Colab starten](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/Test.ipynb).
+Am einfachsten ist es, den Python-Teil auf Google Colab mitzumachen. Das unter `notebooks` abgelegte Notebook [Test.ipynb](notebooks/Test.ipynb) können Sie über den nachfolgenden Link direkt in Google Colab öffnen und ausführen. Bitte einmal [Test.ipynb auf Colab starten](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Test.ipynb).
+
+Folgende Notebooks werden wir durchgehen:
+
+  * **Data Preparation** 
+  [[View here in git](note/First_Insights.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Preparation_Autos.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Data_Preparation_Autos.ipynb)]
+
 
