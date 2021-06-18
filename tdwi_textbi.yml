@@ -41,6 +41,10 @@ dependencies:
     # - pyldavis
     - wordcloud
     - psaw
+    - lime
+    - tensorflow
+    - torch
+    - transformers
 
 
 # dont' forget:
