@@ -8,20 +8,32 @@ In diesem Ordner werden die Arbeitsmaterialien für den Workshop abgelegt sowie 
 
 Für das aktive Mitmachen wird benötigt:
 
-  - Entweder ein Google-Account mit Zugang zu [Google Colab](http://colab.research.google.com/) **oder** eine Anaconda/Miniconda-Installation auf dem lokalen Rechner, möglichst mit einem virtuellen Environment (Anleitung folgt)
+  - Am besten ein Google-Account mit Zugang zu [Google Colab](http://colab.research.google.com/) **oder** eine Anaconda/Miniconda-Installation auf dem lokalen Rechner, am besten in einem virtuellen Environment (für Pakete siehe `conda_requirements.yml`)
   - PowerBI Desktop ([Link zum Download](https://powerbi.microsoft.com/de-de/downloads/))
 
-Genauere Informationen folgen Anfang Juni.
+## Inhalt
 
-#### Google Colab
 
-Am einfachsten ist es, den Python-Teil auf Google Colab mitzumachen. Das unter `notebooks` abgelegte Notebook [Test.ipynb](notebooks/Test.ipynb) können Sie über den nachfolgenden Link direkt in Google Colab öffnen und ausführen. Bitte einmal [Test.ipynb auf Colab starten](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Test.ipynb).
+### Notebooks für den Python-Teil
 
-Folgende Notebooks werden wir durchgehen:
+  * **Data Preprocessing** 
+  [[View here in git](notebooks/Data_Preprocessing.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Preprocessing.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Data_Preprocessing.ipynb)]
 
-  * **Data Preparation** 
-  [[View here in git](note/First_Insights.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Preparation_Autos.ipynb)] 
-  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Data_Preparation_Autos.ipynb)]
+  * **Classification** 
+  [[View here in git](notebooks/Classification.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Classification.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Classification.ipynb)]
 
+
+Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks zur Datenextraktion und Bereinigung:
+
+  * **Data Extraction**
+  [[View here in git](notebooks/Data_Extraction_Reddit.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Extraction_Reddit.ipynb)] 
+
+  * **Data Cleaning**
+  [[View here in git](notebooks/Data_Cleaning_Reddit.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Cleaning.ipynb)] 
 
