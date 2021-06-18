@@ -26,6 +26,11 @@ Für das aktive Mitmachen wird benötigt:
   [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Classification.ipynb)] 
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Classification.ipynb)]
 
+  * **Advanced Models** 
+  [[View here in git](notebooks/Advanced.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Advanced.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Advanced.ipynb)]
+
 
 Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks zur Datenextraktion und Bereinigung:
 
