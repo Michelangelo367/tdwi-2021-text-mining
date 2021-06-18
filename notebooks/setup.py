@@ -16,9 +16,9 @@ if ON_COLAB:
         'packages/blueprints/__init__.py',
         'packages/blueprints/exploration.py',
         'packages/blueprints/preparation.py',
-        'data/reddit-selfposts/rspct_autos.tsv.gz',
-        'data/reddit-selfposts/subreddit_info.csv.gz',
-        'ch04/requirements.txt'
+        'data/reddit-autos-selfposts-raw.csv',
+        'data/reddit-autos-selfposts-prepared.csv',
+        'requirements.txt'
     ]
 
     print("Downloading required files ...")
