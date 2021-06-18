@@ -17,6 +17,7 @@ if ON_COLAB:
         'packages/blueprints/exploration.py',
         'packages/blueprints/preparation.py',
         'data/reddit-autos-selfposts-raw.csv',
+        'data/reddit-autos-selfposts-cleaned.csv',
         'data/reddit-autos-selfposts-prepared.csv',
         'colab_requirements.txt'
     ]
