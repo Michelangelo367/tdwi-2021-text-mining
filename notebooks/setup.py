@@ -13,6 +13,7 @@ else:
 if ON_COLAB:
     required_files = [
         'notebooks/settings.py',
+        'notebooks/cars.py',
         'packages/blueprints/__init__.py',
         'packages/blueprints/exploration.py',
         'packages/blueprints/preparation.py',
