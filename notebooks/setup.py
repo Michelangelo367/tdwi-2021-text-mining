@@ -18,7 +18,7 @@ if ON_COLAB:
         'packages/blueprints/preparation.py',
         'data/reddit-autos-selfposts-raw.csv',
         'data/reddit-autos-selfposts-prepared.csv',
-        'requirements.txt'
+        'colab_requirements.txt'
     ]
 
     print("Downloading required files ...")
@@ -30,7 +30,7 @@ if ON_COLAB:
 
     print("\nAdditional setup ...")
     setup_cmds = [
-        'pip install -r ch04/requirements.txt',
+        'pip install -r colab_requirements.txt',
         'python -m spacy download en_core_web_sm'
     ]
     
