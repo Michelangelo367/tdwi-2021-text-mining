@@ -55,6 +55,8 @@ conda create --name tdwi
 conda activate tdwi
 # Python-Pakete installieren
 conda env update --file conda_requirements.yml
+# Spacy Modell laden
+python -m spacy download en_core_web_sm
 # Jupyter Notebook starten
 jupyter notebook
 ```
