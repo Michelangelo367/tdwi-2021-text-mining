@@ -21,17 +21,17 @@ Für das aktive Mitmachen wird benötigt:
 
   * **Data Preprocessing** 
   [[View here in git](notebooks/Data_Preprocessing.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Preprocessing.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2021-text-mining/blob/main/notebooks/Data_Preprocessing.ipynb)] 
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Data_Preprocessing.ipynb)]
 
   * **Classification** 
   [[View here in git](notebooks/Classification.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Classification.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2021-text-mining/blob/main/notebooks/Classification.ipynb)] 
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Classification.ipynb)]
 
   * **Advanced Models** 
   [[View here in git](notebooks/Advanced.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Advanced.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2021-text-mining/blob/main/notebooks/Advanced.ipynb)] 
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2021-text-mining/blob/master/notebooks/Advanced.ipynb)]
 
 
@@ -39,11 +39,11 @@ Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks 
 
   * **Data Extraction**
   [[View here in git](notebooks/Data_Extraction_Reddit.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Extraction_Reddit.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2021-text-mining/blob/main/notebooks/Data_Extraction_Reddit.ipynb)] 
 
   * **Data Cleaning**
   [[View here in git](notebooks/Data_Cleaning_Reddit.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Cleaning.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2021-text-mining/blob/main/notebooks/Data_Cleaning.ipynb)] 
 
 
 ## Ananconda-Installation
