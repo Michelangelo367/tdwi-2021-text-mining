@@ -8,11 +8,14 @@ In diesem Ordner werden die Arbeitsmaterialien für den Workshop abgelegt sowie 
 
 Für das aktive Mitmachen wird benötigt:
 
-  - Am besten ein Google-Account mit Zugang zu [Google Colab](http://colab.research.google.com/) **oder** eine Anaconda/Miniconda-Installation auf dem lokalen Rechner, am besten in einem virtuellen Environment (für Pakete siehe `conda_requirements.yml`)
+  - Am besten ein Google-Account mit Zugang zu [Google Colab](http://colab.research.google.com/) **oder** eine Anaconda/Miniconda-Installation auf dem lokalen Rechner (siehe unten)
   - PowerBI Desktop ([Link zum Download](https://powerbi.microsoft.com/de-de/downloads/))
 
 ## Inhalt
 
+### PowerBI-Dateien
+
+[Im Verzeichnis `data`](data)
 
 ### Notebooks für den Python-Teil
 
@@ -41,4 +44,18 @@ Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks 
   * **Data Cleaning**
   [[View here in git](notebooks/Data_Cleaning_Reddit.ipynb)] 
   [[View in nbviewer](https://nbviewer.ipython.org/github/blueprints-for-text-analytics-python/blueprints-text/blob/master/notebooks/Data_Cleaning.ipynb)] 
+
+
+## Ananconda-Installation
+
+```sh
+# Anlegen eines virtuellen Environments
+conda create --name tdwi
+# Aktivieren des Environments
+conda activate tdwi
+# Python-Pakete installieren
+conda env update --file conda_requirements.yml
+# Jupyter Notebook starten
+jupyter notebook
+```
 
