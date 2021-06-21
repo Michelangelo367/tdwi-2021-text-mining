@@ -13,7 +13,7 @@ Für das aktive Mitmachen wird benötigt:
 
 ## Inhalt
 
-[Präsentation](TDWI2021_Text_Mining.pdf=
+[Präsentation](TDWI2021_Text_Mining.pdf)
 
 ### PowerBI-Dateien
 
