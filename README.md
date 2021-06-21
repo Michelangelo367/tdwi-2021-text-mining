@@ -15,7 +15,7 @@ Für das aktive Mitmachen wird benötigt:
 
 ### PowerBI-Dateien
 
-[Im Verzeichnis `data`](data)
+[Im Verzeichnis `powerbi`](powerbi)
 
 ### Notebooks für den Python-Teil
 
