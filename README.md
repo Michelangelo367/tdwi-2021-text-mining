@@ -4,6 +4,8 @@ Workshop von **Jens Albrecht und Roland Zimmermann** auf [TDWI-Konferenz 2021](h
 
 [Link zum Programm-Eintrag](https://www.tdwi-konferenz.de/tdwi-2021/startpage/program/conference-program/track/workshop-6.html)
 
+[Link zum Video-Mitschnitt](https://youtu.be/fp95Ao-cs20)
+
 In diesem Ordner werden die Arbeitsmaterialien für den Workshop abgelegt sowie eine Installationsanleitung.
 
 Für das aktive Mitmachen wird benötigt:
@@ -17,7 +19,7 @@ Für das aktive Mitmachen wird benötigt:
 
 ### PowerBI-Dateien
 
-[Im Verzeichnis `powerbi`](powerbi)
+[Im Verzeichnis `powerbi`](powerbi). (Die Daten können auf Anfrage erhalten werden.)
 
 ### Notebooks für den Python-Teil
 
